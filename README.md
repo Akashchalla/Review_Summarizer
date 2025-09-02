@@ -9,7 +9,7 @@ Follow these steps to set up and run the project on your local machine.
 ## Step 1: cd into the project root folder
 Open command prompt and cd into the project folder
 ```bash
-cd IntelligentReviewAnalyzer
+cd Review_Summarizer
 ```
 
 ## Step 2: Create virtual environment
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-python setup.py
+python setup_file.py
 ```
 
 ## Step 5: Run the app on browser
